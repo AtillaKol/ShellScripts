@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script can be used to delete all containers which are labeled with <none>.
+# This script can be used to delete all images which are labeled with <none>.
 
 # This function is used to get the exit code from a command. If the command throws anything but a 0 then this script will stop.
 function exitStats() {
